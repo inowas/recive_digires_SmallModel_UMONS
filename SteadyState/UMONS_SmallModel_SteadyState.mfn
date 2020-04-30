@@ -1,0 +1,17 @@
+# MF2K NAME file
+#
+# Obs-Sen-Pes Process Input Files
+OBS                7   UMONS_SmallModel_SteadyState.obs
+CHOB               8   UMONS_SmallModel_SteadyState.chob
+#
+# Global Input Files
+DIS                9   UMONS_SmallModel_SteadyState.dis
+#
+# Flow Process Input Files
+BAS6               10  UMONS_SmallModel_SteadyState.ba6
+LPF                11  UMONS_SmallModel_SteadyState.lpf
+OC                 12  UMONS_SmallModel_SteadyState.oc
+RCH                13  UMONS_SmallModel_SteadyState.rch
+WEL                16  UMONS_SmallModel_SteadyState.wel
+CHD                14  UMONS_SmallModel_SteadyState.chd
+PCG                15  UMONS_SmallModel_SteadyState.pcg

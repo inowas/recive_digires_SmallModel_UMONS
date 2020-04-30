@@ -1,0 +1,12 @@
+# MODFLOW 2005
+# Global Input Files
+DIS                9   UMONS_SmallModel_SteadyState_mf2005.dis
+#
+# Flow Process Input Files
+BAS6               10  UMONS_SmallModel_SteadyState_mf2005.ba6
+LPF                11  UMONS_SmallModel_SteadyState_mf2005.lpf
+OC                 12  UMONS_SmallModel_SteadyState_mf2005.oc
+RCH                13  UMONS_SmallModel_SteadyState_mf2005.rch
+WEL                16  UMONS_SmallModel_SteadyState_mf2005.wel
+CHD                14  UMONS_SmallModel_SteadyState_mf2005.chd
+PCG                15  UMONS_SmallModel_SteadyState_mf2005.pcg
